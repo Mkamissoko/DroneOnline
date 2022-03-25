@@ -1,0 +1,11 @@
+
+
+GOTUniverse.com est un site encyclopédique sur l'univers de Game of Thrones destiné a faire découvrir l'oeuvre de George R. R. Martin.
+
+La page home metra avant tout en valeur les différents volumes du roman ainsi que les différentes saisons de la série TV, pour chaque saison, on pourra voir la liste des épisodes, un détail de l'équipe de production (producteur, réalisateur et metteur en scene) et son budget global; sur la page d'un épisode on pourra avoir la liste des personages y apparaissant, et les acteurs les incarnant. Pour chaque Roman, on pourra également consulter la listes des personnages, et consulter la liste des épisodes de la série qui retrace le récit de ce tome.
+
+Sur la page d'un personnage on peut consulter son nom, sa royaume d'origine, son royaume ou sa faction d'attache, son arme de predilection, sa spécialité, sa famille; on y trouve également une liste d'images et vidéos du personnage (certaines videos peuvent traiter de plusieurs personnages), on aura également la liste des créatures particulières, qu'il a vaincu ou qui lui sont fidèle. On pourra également consulter son arbre généalogique faisant apparaitre ses enfants, parent et conjoints.
+
+Sur la page d'un royaume, ou d'une faction on peut voir son embleme, sa devise, la liste de ses villes et des continents ou il est présent, ses forces armées, ses alliances et leur nature (d'egal a égal ou relation vassal/suzerain) et un historique de ses guerres et conquetes. Cet historique devra etre présenté sous la forme d'un fil chronologique d'évenements faisant apparaitre les conséquences de chaque confrontations (conquetes, pertes de forces armées, changements d'alliances)
+
+Enfin un forum permettra aux visiteurs de consulter des critiques et de publier des posts dans des fils de discussions (1 par tome, et un par saison).
